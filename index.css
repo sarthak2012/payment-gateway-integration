@@ -1,0 +1,83 @@
+body {
+    background-image: url("floods.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    margin: 0;
+  }
+  
+  h1 {
+    border: 2px solid #6b2d07;
+    background-color: #D76F30;
+    width: 500px;
+    border-radius: 13px;
+    text-align: center;
+    color: rgb(242, 234, 234);
+    font-size: 90px;
+    margin-top: 30vh;
+    display: inline-block;
+    box-shadow: 3px 3px 10px 3px #b9adad;
+  }
+  
+  form {
+    text-align: center;
+  }
+  
+  .btn {
+    
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    background: #1aa32a;
+    color: rgb(238, 235, 235);
+    border-radius: 20px;
+    border: none;
+    box-shadow: 3px 3px 10px 3px rgba(38, 36, 36, 0.3);
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn:hover {
+    background-color: #65d2a2;
+    box-shadow: 3px 3px 10px 3px rgba(0,0,0,0.5); 
+  }
+  
+  .donate-info {
+    background-color: #f9f9f9;
+    padding: 10px;
+    text-align: center;
+    margin-top: 30px;
+  }
+  
+  .donate-info h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    color: #c3531c;
+  }
+  
+  .donate-info p {
+    font-size: 20px;
+    line-height: 1.5;
+    color: #090807;
+  }
+
+  .donate-benefits {
+    background-color: #f5f5f5;
+    margin-top: 60px;
+    padding: 30px 0;
+    text-align: center;
+  }
+  
+  .donate-benefits h2 {
+    font-size: 36px;
+    color: #c3531c;
+    margin-bottom: 40px;
+  }
+
+  footer{
+    color: #181717;
+  }
+  
